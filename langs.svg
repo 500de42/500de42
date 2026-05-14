@@ -1,0 +1,29 @@
+<svg viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .lang-label { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; font-weight: 600; }
+      .lang-pct { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 12px; }
+    </style>
+  </defs>
+  <rect width="600" height="280" fill="#000000" rx="8"/>
+  <path d="M 120,140 L 190.0,140.0 A 70,70 0 0,1 50.088413037578775,143.51710227258388 Z" fill="#3178C6" opacity="0.9"/>
+  <rect x="280" y="30" width="14" height="14" fill="#3178C6" rx="2"/>
+  <text class="lang-label" x="302" y="41" fill="#ffffff">TypeScript</text>
+  <text class="lang-pct" x="430" y="41" fill="#a0a0a0">49.2%</text>
+  <path d="M 120,140 L 50.088413037578775,143.51710227258388 A 70,70 0 0,1 105.15950230545616,71.59123135022647 Z" fill="#00599C" opacity="0.9"/>
+  <rect x="280" y="58" width="14" height="14" fill="#00599C" rx="2"/>
+  <text class="lang-label" x="302" y="69" fill="#ffffff">C++</text>
+  <text class="lang-pct" x="430" y="69" fill="#a0a0a0">22.4%</text>
+  <path d="M 120,140 L 105.15950230545616,71.59123135022647 A 70,70 0 0,1 176.63118960624632,98.85503233952687 Z" fill="#00599C" opacity="0.9"/>
+  <rect x="280" y="86" width="14" height="14" fill="#00599C" rx="2"/>
+  <text class="lang-label" x="302" y="97" fill="#ffffff">C</text>
+  <text class="lang-pct" x="430" y="97" fill="#a0a0a0">18.4%</text>
+  <path d="M 120,140 L 176.63118960624632,98.85503233952687 A 70,70 0 0,1 183.8884111182452,111.39456476845558 Z" fill="#9b59b6" opacity="0.9"/>
+  <rect x="280" y="114" width="14" height="14" fill="#9b59b6" rx="2"/>
+  <text class="lang-label" x="302" y="125" fill="#ffffff">Roff</text>
+  <text class="lang-pct" x="430" y="125" fill="#a0a0a0">3.3%</text>
+  <path d="M 120,140 L 183.8884111182452,111.39456476845558 A 70,70 0 0,1 187.341937011026,120.89336451378718 Z" fill="#89e051" opacity="0.9"/>
+  <rect x="280" y="142" width="14" height="14" fill="#89e051" rx="2"/>
+  <text class="lang-label" x="302" y="153" fill="#ffffff">Shell</text>
+  <text class="lang-pct" x="430" y="153" fill="#a0a0a0">2.3%</text>
+</svg>

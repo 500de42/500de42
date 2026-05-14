@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="URL_DE_TON_IMAGE_ICI" width="100%" alt="Header Image" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt2OWx5YmZ2bTVqZTJvNGw4NzZrZXN5bDh2b2h3aTZzYXJrbjNoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif" width="100%" height="200" alt="Header Image" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Kalvin+-+42+Paris+Student;Backend+Developer;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Welcome%21;I%20am%20Kalvin,%2042%20Paris%20Student;I%20am%20a%20Backend%20Developer;Cybersecurity%20Enthusiast" />
 </p>
 
 ---
@@ -20,7 +16,7 @@
 
 I am a **Backend Developer** student at **École 42 Paris**, specializing in **C/C++** and **NestJS** API development. I am deeply interested in **cybersecurity** and infrastructure orchestration. I focus on building scalable, secure, and efficient server-side applications.
 
-🚀 **Looking for:** A **4-6 month internship** or a **1-year apprenticeship** starting in **September 2026**.
+💼 **Looking for:** A **4-6 month internship** or a **1-year apprenticeship** starting in **September 2026**.
 
 ---
 
@@ -81,9 +77,13 @@ I am a **Backend Developer** student at **École 42 Paris**, specializing in **C
 
 ### 📊 Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=500de42&layout=compact&theme=radical&hide_border=true&title_color=9D00FF&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-langs?username=500de42&theme=radical" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=500de42&show_icons=true&theme=radical&hide_border=true&title_color=9D00FF&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=500de42&theme=radical" />
 </p>
+
+<!-- <p align="center">
+  <img src="langs.svg" alt="Languages" />
+</p> -->
