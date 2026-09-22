@@ -35,7 +35,6 @@ I am a **Backend Developer** student at **École 42 Paris**, specializing in **C
 ### Languages
 <div align="center">
 
-<img src="langs.svg" alt="Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=86399" />
 
 </div>
@@ -89,10 +88,8 @@ I am a **Backend Developer** student at **École 42 Paris**, specializing in **C
 ---
 
 ### Performance
-<p align="center">
-  <img src="./langs.svg?v=2" alt="Top 5 languages" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=500de42&theme=radical" />
 </p>
+
