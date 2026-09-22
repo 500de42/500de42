@@ -43,7 +43,7 @@ I am a **Backend Developer** student at **École 42 Paris**, specializing in **C
 ---
 
 ### Skills
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
@@ -54,7 +54,7 @@ I am a **Backend Developer** student at **École 42 Paris**, specializing in **C
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p> -->
+</p>
 
 ---
 
