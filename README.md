@@ -52,7 +52,7 @@ I am a **Backend Developer** student at **École 42 Paris**, specializing in **C
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/ModSecurity-B22222?style=flat&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=hashicorp-vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=hashicorp-vault&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
